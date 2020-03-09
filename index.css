@@ -6,6 +6,11 @@ body {
     background-attachment: fixed;
     font-family: "roboto";
 }
+nav a {
+    text-decoration: none;
+}
+
+
 .title {
     padding-top: 10%;
     padding-bottom: 10%;
