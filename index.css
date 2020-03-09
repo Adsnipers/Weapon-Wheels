@@ -10,6 +10,9 @@ body {
     padding-top: 10%;
     padding-bottom: 10%;
     text-align: center;
+    font-size: 50px;
+    font-weight: bolder;
+    background-color: white;
 }
 .wheels {
     background-color: rgba(255, 255, 255, 0.7);;
@@ -20,8 +23,10 @@ body {
 .wheeldisclaimer {
     background-color: rgba(255, 255, 255, 0.6);
     border-radius: 5px;
+    font-size: 50px;
 }
 .rules {
+    margin-top: 5%;
     background-color: rgba(255, 255, 255, 0.6);
     padding: 1%;
     border-radius: 5px;
